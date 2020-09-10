@@ -1,0 +1,15 @@
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.exe
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.csprojAssemblyReference.cache
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.AssemblyInfoInputs.cache
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.AssemblyInfo.cs
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.deps.json
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.runtimeconfig.json
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.runtimeconfig.dev.json
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.dll
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\PrototypeDTO.pdb
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.csproj.CoreCompileInputs.cache
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.csproj.CopyComplete
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.dll
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.pdb
+D:\Developpement\_PROTOTYPES\C#\PrototypeDTO\PrototypeDTO\obj\Debug\netcoreapp3.1\PrototypeDTO.genruntimeconfig.cache
